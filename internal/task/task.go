@@ -1,4 +1,4 @@
-ipackage task
+package task
 
 type Task struct {
     ID      int
